@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Gopal Portfolio Desktop Demo](imaging.png)
+![Cyberfication Demo](imaging.png)
 
 This project is **free to use** and does not contains any license.
 
